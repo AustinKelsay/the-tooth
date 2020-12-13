@@ -28,7 +28,7 @@ const Navbar = () => {
                 <Nav.Link href="/merch">Merch</Nav.Link>
             </Nav.Item>
             <Nav.Item as={navItem}>
-                <Nav.Link href="/media">Media</Nav.Link>
+                <Nav.Link href="/media">Other projects</Nav.Link>
             </Nav.Item>
         </Nav>
     )
